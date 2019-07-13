@@ -13,4 +13,6 @@ All resources within the documentation is the sole rights of **Supercell**, and 
 - [Rules](./docs/rules.md)
 - [Roles and Responsibilities](./docs/roles-and-responsibilities.md)
 - [Attack Allocation Guidelines](./docs/attack-allocation-guidelines.md)
+- [Invitations](./docs/invitations.md)
 - [Discord Categories and Channels](./docs/discord-categories-and-channels.md)
+- [Tools](./docs/tools.md)
