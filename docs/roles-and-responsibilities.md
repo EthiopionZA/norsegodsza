@@ -20,7 +20,7 @@
 - Assists with the general clan activities and war events.
 - Entrusted to make decisions on behalf of the leader, for the betterment of the clan.
 - Has overall experience.
-- Is usually TH10+
+- Is usually TH10+.
 
 ### Elder
 
@@ -29,13 +29,13 @@
 - Does not contain any of the leadership responsibilities.
 - Has greater opinion of events, and general activities.
 - Has general experience.
-- Is usually TH8 to TH9
+- Is usually TH9+.
 
 ### Member
 
 - New recruit of the clan.
 - Has the least experience.
-- Is usually TH1 to TH7
+- Is usually TH1 to TH7.
 
 ## Discord
 
