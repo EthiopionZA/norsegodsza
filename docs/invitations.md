@@ -6,7 +6,7 @@
 
 ## Summary
 
-**NorseGodsZA** is a **closed** clan group, whereby we would like to manage whom is within the clan. This is to create a controlled environment and close environment umong other clan members.
+**NorseGodsZA** is a **closed** clan group, whereby we would like to manage whom is within the clan. This is to create a controlled environment and close environment among other clan members.
 
 ## Invite
 

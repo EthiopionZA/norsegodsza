@@ -57,7 +57,7 @@
 - Can send TTS (Text-to-speach) messages
 - Can manage messages.
 - Can mute members.
-- Can defean members.
+- Can deafen members.
 - Can move members.
 - Can mention everyone.
 
