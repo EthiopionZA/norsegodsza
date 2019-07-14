@@ -19,16 +19,23 @@
 - Enforces the rules outlined.
 - Assists with the general clan activities and war events.
 - Entrusted to make decisions on behalf of the leader, for the betterment of the clan.
+- Has overall experience.
+- Is usually TH10+
 
 ### Elder
 
 - Loyal member of the clan.
+- Has been with the clan for sometime.
 - Does not contain any of the leadership responsibilities.
 - Has greater opinion of events, and general activities.
+- Has general experience.
+- Is usually TH8 to TH9
 
 ### Member
 
 - New recruit of the clan.
+- Has the least experience.
+- Is usually TH1 to TH7
 
 ## Discord
 
